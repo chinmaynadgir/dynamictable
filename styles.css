@@ -1,0 +1,21 @@
+.red{
+    background-color: orangered;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: white;
+    border: 1px solid;
+}
+
+#table-div{
+    position: absolute;
+    top:45%;
+    left: 45%;
+    width: 220px;
+    height: 80px;
+    background: cyan;
+}
